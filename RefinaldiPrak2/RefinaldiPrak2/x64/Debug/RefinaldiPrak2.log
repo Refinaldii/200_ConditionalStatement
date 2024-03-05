@@ -1,0 +1,3 @@
+﻿  RefinaldiPrak2.cpp
+C:\Users\L E N O V O\source\repos\RefinaldiPrak2\RefinaldiPrak2.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RefinaldiPrak2.vcxproj -> C:\Users\L E N O V O\source\repos\RefinaldiPrak2\x64\Debug\RefinaldiPrak2.exe
